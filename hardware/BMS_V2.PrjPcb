@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=BMS_V3.PcbDoc
+DocumentPath=BMS_V2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -52,16 +52,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RKFTKOHE
+DocumentUniqueId=
 
 [Document2]
-DocumentPath=BMS_V3.SchDoc
+DocumentPath=BMS_V2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -69,10 +69,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DNPGXNRF
+DocumentUniqueId=
 
 [Document3]
-DocumentPath=0.33uF.PcbLib
+DocumentPath=Libraries\0.33uF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,10 +86,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BTLTKSQH
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=0.33uF.SchLib
+DocumentPath=Libraries\0.33uF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,10 +103,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FAVKWCED
+DocumentUniqueId=
 
 [Document5]
-DocumentPath=10K Resistor.PcbLib
+DocumentPath=Libraries\10K Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -120,10 +120,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UBNSBSQL
+DocumentUniqueId=
 
 [Document6]
-DocumentPath=10K Resistor.SchLib
+DocumentPath=Libraries\10K Resistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,10 +137,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DCCPCTSE
+DocumentUniqueId=
 
 [Document7]
-DocumentPath=220K.PcbLib
+DocumentPath=Libraries\220K.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -154,10 +154,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WDGTFBBB
+DocumentUniqueId=
 
 [Document8]
-DocumentPath=220K.SchLib
+DocumentPath=Libraries\220K.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -171,10 +171,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZBQXWRVS
+DocumentUniqueId=
 
 [Document9]
-DocumentPath=ATMEGA.PcbLib
+DocumentPath=Libraries\ATMEGA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -188,10 +188,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LSHPKALY
+DocumentUniqueId=
 
 [Document10]
-DocumentPath=ATMEGA.SchLib
+DocumentPath=Libraries\ATMEGA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -205,10 +205,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WVTGAMET
+DocumentUniqueId=
 
 [Document11]
-DocumentPath=CL10B105MO8NNWC.PcbLib
+DocumentPath=Libraries\BMS_schematic_diy.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -222,10 +222,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VXCQEDWL
+DocumentUniqueId=
 
 [Document12]
-DocumentPath=CL10B105MO8NNWC.SchLib
+DocumentPath=Libraries\CL10B105MO8NNWC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -239,10 +239,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FETBBTTS
+DocumentUniqueId=
 
 [Document13]
-DocumentPath=ERJ3EKF3001V.PcbLib
+DocumentPath=Libraries\CL10B105MO8NNWC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -256,10 +256,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EBEPXUWC
+DocumentUniqueId=
 
 [Document14]
-DocumentPath=ERJ3EKF3001V.SchLib
+DocumentPath=Libraries\ERJ3EKF3001V.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -273,10 +273,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EJKFCTIX
+DocumentUniqueId=
 
 [Document15]
-DocumentPath=Inductor.PcbLib
+DocumentPath=Libraries\ERJ3EKF3001V.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -290,10 +290,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LXJKKQSL
+DocumentUniqueId=
 
 [Document16]
-DocumentPath=Inductor.SchLib
+DocumentPath=Libraries\FUSE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -307,10 +307,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UMMMAVYP
+DocumentUniqueId=
 
 [Document17]
-DocumentPath=Isolated CANBUS.PcbLib
+DocumentPath=Libraries\FUSE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -324,10 +324,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PERGUTFS
+DocumentUniqueId=
 
 [Document18]
-DocumentPath=Isolated CANBUS.SchLib
+DocumentPath=Libraries\Inductor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -341,10 +341,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZSHXSDJU
+DocumentUniqueId=
 
 [Document19]
-DocumentPath=ISP Header.PcbLib
+DocumentPath=Libraries\Inductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -358,10 +358,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NIUGOHPQ
+DocumentUniqueId=
 
 [Document20]
-DocumentPath=ISP Header.SchLib
+DocumentPath=Libraries\Isolated CANBUS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -375,10 +375,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KJRPPPHE
+DocumentUniqueId=
 
 [Document21]
-DocumentPath=JS202011SCQN.PcbLib
+DocumentPath=Libraries\Isolated CANBUS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -392,10 +392,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XKCAPMCS
+DocumentUniqueId=
 
 [Document22]
-DocumentPath=JS202011SCQN.SchLib
+DocumentPath=Libraries\ISP Header.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -409,10 +409,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MIDIEYFP
+DocumentUniqueId=
 
 [Document23]
-DocumentPath=L78L05ACD13TR.PcbLib
+DocumentPath=Libraries\ISP Header.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -426,10 +426,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SBPFCJOF
+DocumentUniqueId=
 
 [Document24]
-DocumentPath=L78L05ACD13TR.SchLib
+DocumentPath=Libraries\JS202011SCQN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -443,10 +443,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SQGSBOUM
+DocumentUniqueId=
 
 [Document25]
-DocumentPath=Multiplexer.PcbLib
+DocumentPath=Libraries\JS202011SCQN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -460,10 +460,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OBFRLTWQ
+DocumentUniqueId=
 
 [Document26]
-DocumentPath=Multiplexer.SchLib
+DocumentPath=Libraries\L78L05ACD13TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -477,10 +477,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HXBEAAOX
+DocumentUniqueId=
 
 [Document27]
-DocumentPath=PLCC-2.PcbLib
+DocumentPath=Libraries\L78L05ACD13TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -494,10 +494,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UCIYENQN
+DocumentUniqueId=
 
 [Document28]
-DocumentPath=PLCC-2.SchLib
+DocumentPath=Libraries\MAX14920.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -511,10 +511,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YJSCEDAA
+DocumentUniqueId=
 
 [Document29]
-DocumentPath=PMV20XNEAR.PcbLib
+DocumentPath=Libraries\MAX14920.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -528,10 +528,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GLVMLCAI
+DocumentUniqueId=
 
 [Document30]
-DocumentPath=PMV20XNEAR.SchLib
+DocumentPath=Libraries\MAX14921ECS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -545,10 +545,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BRVXONTN
+DocumentUniqueId=
 
 [Document31]
-DocumentPath=Relay.PcbLib
+DocumentPath=Libraries\MAX14921ECS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -562,10 +562,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MBVPKTEK
+DocumentUniqueId=
 
 [Document32]
-DocumentPath=Relay.SchLib
+DocumentPath=Libraries\MOLEX NANOFIT 5POS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -579,10 +579,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FMCJFSLO
+DocumentUniqueId=
 
 [Document33]
-DocumentPath=SO6.PcbLib
+DocumentPath=Libraries\MOLEX NANOFIT 5POS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -596,10 +596,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BEWUAKDM
+DocumentUniqueId=
 
 [Document34]
-DocumentPath=SOC6.SchLib
+DocumentPath=Libraries\Multiplexer.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -613,10 +613,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MJSKHHNK
+DocumentUniqueId=
 
 [Document35]
-DocumentPath=SODFL3616X98N.PcbLib
+DocumentPath=Libraries\Multiplexer.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -630,10 +630,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TJIXSRAL
+DocumentUniqueId=
 
 [Document36]
-DocumentPath=SODFL3616X98N.SchLib
+DocumentPath=Libraries\PLCC-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -647,10 +647,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IJKRSELW
+DocumentUniqueId=
 
 [Document37]
-DocumentPath=Switch_C&K_JS202011CQN_eec.SchLib
+DocumentPath=Libraries\PLCC-2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -664,10 +664,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TFBBVSSR
+DocumentUniqueId=
 
 [Document38]
-DocumentPath=XTAL_HC49P488W45L1150T500H350.PcbLib
+DocumentPath=Libraries\PMV20XNEAR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -681,10 +681,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UNSHAXQB
+DocumentUniqueId=
 
 [Document39]
-DocumentPath=XTAL_HC49P488W45L1150T500H350.SchLib
+DocumentPath=Libraries\PMV20XNEAR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -698,10 +698,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BMJAPSLD
+DocumentUniqueId=
 
 [Document40]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_TX2SA24V\AltiumDesigner\2019-05-08_03-58-10\TX2SA-24V-TH.PcbLib
+DocumentPath=Libraries\Relay.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -715,10 +715,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JRYJAICY
+DocumentUniqueId=
 
 [Document41]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_TX2SA24V\AltiumDesigner\2019-05-08_03-58-10\TX2SA-24V-TH.SchLib
+DocumentPath=Libraries\Relay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -732,10 +732,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PFRJHTAM
+DocumentUniqueId=
 
 [Document42]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_LTSTC191TGKT\AltiumDesigner\2019-05-08_05-09-11\LED_RED_CLEAR_0603_SMD.PcbLib
+DocumentPath=Libraries\SO6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -749,10 +749,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ADBEVKJN
+DocumentUniqueId=
 
 [Document43]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_LTSTC191TGKT\AltiumDesigner\2019-05-08_05-09-11\LED_RED_CLEAR_0603_SMD.SchLib
+DocumentPath=Libraries\SOC6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -766,10 +766,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XAYDWKMW
+DocumentUniqueId=
 
 [Document44]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_314620397\AltiumDesigner\2019-05-11_06-23-44\3-1462039-7_Relay.PcbLib
+DocumentPath=Libraries\SODFL3616X98N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -783,10 +783,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YXWOQOLC
+DocumentUniqueId=
 
 [Document45]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_314620397\AltiumDesigner\2019-05-11_06-23-44\3-1462039-7_Relay.SchLib
+DocumentPath=Libraries\SODFL3616X98N.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -800,10 +800,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GJSEFOSQ
+DocumentUniqueId=
 
 [Document46]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_ABLS2863636MHZCLRESRA1GF\AltiumDesigner\2019-05-13_00-35-52\ABLS-16.PcbLib
+DocumentPath=Libraries\Switch_C&K_JS202011CQN_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -817,10 +817,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NUCQRUIY
+DocumentUniqueId=
 
 [Document47]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_ABLS2863636MHZCLRESRA1GF\AltiumDesigner\2019-05-13_00-35-52\ABLS-16.SchLib
+DocumentPath=Libraries\Switch_C&K_JS202011CQN_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -834,10 +834,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JTTSSFAW
+DocumentUniqueId=
 
 [Document48]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\FOD817CS\Imported FOD817CS.lia\FOD817CS.PcbLib
+DocumentPath=Libraries\XTAL_HC49P488W45L1150T500H350.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -851,333 +851,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DRUVOMIT
+DocumentUniqueId=
 
 [Document49]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\FOD817CS\Imported FOD817CS.lia\FOD817CS.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZLOTPGNR
-
-[Document50]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_VS10MQ100NPBF\AltiumDesigner\2019-05-13_02-17-12\VS-10MQ100HM35AT.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NWQWOATY
-
-[Document51]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_VS10MQ100NPBF\AltiumDesigner\2019-05-13_02-17-12\VS-10MQ100HM35AT.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OCTGRXHT
-
-[Document52]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_0458001DR\AltiumDesigner\2019-05-13_03-15-31\F1206B0R20FSTR.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GIETPGGK
-
-[Document53]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_0458001DR\AltiumDesigner\2019-05-13_03-15-31\F1206B0R20FSTR.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZIVTBNSF
-
-[Document54]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_EMK107BJ105KAT\AltiumDesigner\2019-05-13_10-14-28\Capacitors.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WMUXLTBC
-
-[Document55]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_EMK107BJ105KAT\AltiumDesigner\2019-05-13_10-14-28\Capacitors.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JIFKBJBY
-
-[Document56]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_MAX14920ECB\AltiumDesigner\2019-05-08_00-31-25\MAX14920.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UHVDQMJC
-
-[Document57]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_MAX14920ECB\AltiumDesigner\2019-05-08_00-31-25\MAX14920.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BZRDTMQK
-
-[Document58]
-DocumentPath=MOLEX NANOFIT 5POS.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WGMJMEGC
-
-[Document59]
-DocumentPath=MOLEX NANOFIT 5POS.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XCWBDXGS
-
-[Document60]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_SMW34R7JT\AltiumDesigner\2019-05-15_04-01-10\SMW34R7JT.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KXNEHQUB
-
-[Document61]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_SMW34R7JT\AltiumDesigner\2019-05-15_04-01-10\SMW34R7JT.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WPWUDXIE
-
-[Document62]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_12410503\AltiumDesigner\2019-05-20_15-34-56\Header Pins.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BILMOQRK
-
-[Document63]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_12410503\AltiumDesigner\2019-05-20_15-34-56\Header Pins.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PVWNMREY
-
-[Document64]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_74HC595PW\AltiumDesigner\2019-05-24_09-14-52\74HC595PW.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QKEIKVUE
-
-[Document65]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_74HC595PW\AltiumDesigner\2019-05-24_09-14-52\74HC595PW.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UVDSTOVH
-
-[Document66]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_CD74HCT4067QM96Q1\AltiumDesigner\2019-05-24_10-22-10\CD74HCT4067QM96Q1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MMPICBGL
-
-[Document67]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\V2Designs\BMS_V3_FOLDER\ul_CD74HCT4067QM96Q1\AltiumDesigner\2019-05-24_10-22-10\CD74HCT4067QM96Q1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MGHYKZLE
-
-[Document68]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\QUTMS_Altium_Resources-master\QUTMS_Altium_Resources-master\Libraries\QUTMS_CANLibrary.PcbLib
+DocumentPath=Libraries\XTAL_HC49P488W45L1150T500H350.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1192,210 +869,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document69]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\QUTMS_Altium_Resources-master\QUTMS_Altium_Resources-master\Libraries\QUTMS_CANLibrary.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WYTIWMFD
-
-[Document70]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\QUTMS_Altium_Resources-master\QUTMS_Altium_Resources-master\Libraries\QUTMS_Microfit.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WETEJITK
-
-[Document71]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\QUTMS_Altium_Resources-master\QUTMS_Altium_Resources-master\Libraries\QUTMS_Microfit.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DYJMDMMB
-
-[Document72]
-DocumentPath=..\AMS_V3\PTS526SK15SMTR2LFS.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BGXSNLET
-
-[Document73]
-DocumentPath=..\AMS_V3\Switches.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UXKBQAWD
-
-[Document74]
-DocumentPath=BMS_V3.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document75]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\QUTMS_Altium_Resources-master\QUTMS_Altium_Resources-master\Libraries\QUTMS_CrystalLibrary.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document76]
-DocumentPath=..\..\..\..\..\alist\Dropbox\Uni_Life\MotorSports\QUTMS_Altium_Resources-master\QUTMS_Altium_Resources-master\Libraries\QUTMS_CrystalLibrary.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AGODVSYE
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.REP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for BMS_V3\BMS_V3.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for BMS_V3\Design Rule Check - BMS_V3.html
-DItemRevisionGUID=
 
 [DeviceSheetFolder1]
 Path=C:\Users\Public\Documents\Altium\Projects\BMS_V3\
@@ -1540,57 +1013,27 @@ OutputName17=SciCards Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=SIMetrixNetlist
-OutputName18=SIMetrix
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=SIMPLISNetlist
-OutputName19=SIMPLIS
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=TangoNetlist
-OutputName20=Tango Netlist
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=TelesisNetlist
-OutputName21=Telesis Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=WireListNetlist
-OutputName22=WireList Netlist
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=XSpice Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1681,6 +1124,12 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1707,7 +1156,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=EPSON XP-235 Series
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -2095,6 +1544,16 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -2225,6 +1684,8 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
+Type118=1
+Type119=1
 
 [Difference Levels]
 Type1=1
@@ -2293,6 +1754,8 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
+Type67=1
+Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -2301,33 +1764,33 @@ Type3=2
 Type4=1
 Type5=2
 Type6=2
-Type7=1
+Type7=0
 Type8=1
 Type9=1
 Type10=1
 Type11=2
-Type12=2
-Type13=2
+Type12=0
+Type13=0
 Type14=1
 Type15=1
 Type16=1
 Type17=1
 Type18=1
 Type19=1
-Type20=1
-Type21=1
-Type22=1
-Type23=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
 Type24=1
 Type25=2
-Type26=2
+Type26=0
 Type27=2
 Type28=1
 Type29=1
 Type30=1
 Type31=1
 Type32=2
-Type33=2
+Type33=0
 Type34=2
 Type35=1
 Type36=2
@@ -2338,15 +1801,15 @@ Type40=2
 Type41=0
 Type42=2
 Type43=1
-Type44=1
-Type45=2
-Type46=1
-Type47=2
-Type48=2
-Type49=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
 Type50=2
-Type51=1
-Type52=1
+Type51=0
+Type52=0
 Type53=1
 Type54=1
 Type55=1
@@ -2354,10 +1817,10 @@ Type56=2
 Type57=1
 Type58=1
 Type59=2
-Type60=1
-Type61=2
-Type62=2
-Type63=1
+Type60=0
+Type61=0
+Type62=0
+Type63=0
 Type64=0
 Type65=2
 Type66=3
@@ -2395,7 +1858,7 @@ Type97=2
 Type98=0
 Type99=1
 Type100=2
-Type101=1
+Type101=0
 Type102=2
 Type103=2
 Type104=1
@@ -2440,6 +1903,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=1
 SortLocation=0
+ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -2460,6 +1924,7 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Any
 ComponentLibraryIdentifier0=
@@ -2848,6 +2313,7 @@ ModelUpdate41=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
