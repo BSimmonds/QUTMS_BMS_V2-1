@@ -1,0 +1,76 @@
+<mxfile host="www.draw.io" modified="2020-02-01T12:21:53.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="GBsySjkUPpsrIS8i9Vxe" version="12.6.2" type="github">
+  <diagram id="RA-3rsy6pqOgJvhp7-o8" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-1" value="SPI" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="VFxLOMeDqTugYbL5dFca-4" target="VFxLOMeDqTugYbL5dFca-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="VFxLOMeDqTugYbL5dFca-4" target="VFxLOMeDqTugYbL5dFca-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-3" value="I/O" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VFxLOMeDqTugYbL5dFca-4" target="VFxLOMeDqTugYbL5dFca-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-4" value="ATmega uC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.325;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VFxLOMeDqTugYbL5dFca-7" target="VFxLOMeDqTugYbL5dFca-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-6" value="FETs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="VFxLOMeDqTugYbL5dFca-5">
+          <mxGeometry x="0.2294" y="4" relative="1" as="geometry">
+            <mxPoint x="-10" y="4" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-7" value="MAX BMS chip" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-8" value="Cell Balancing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="620" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFxLOMeDqTugYbL5dFca-11" target="VFxLOMeDqTugYbL5dFca-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-10" value="Fusible Links" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="VFxLOMeDqTugYbL5dFca-9">
+          <mxGeometry x="0.2" y="-1" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-11" value="Cell Voltage Sensing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="90" y="620" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VFxLOMeDqTugYbL5dFca-13" target="VFxLOMeDqTugYbL5dFca-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-13" value="Cell Temp&lt;br&gt;Measurement Thermistors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="620" y="400" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFxLOMeDqTugYbL5dFca-15" target="VFxLOMeDqTugYbL5dFca-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="190" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-15" value="CANBUS Communication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VFxLOMeDqTugYbL5dFca-17" target="VFxLOMeDqTugYbL5dFca-19">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-17" value="Fault Signal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-18" value="ADMUX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-19" value="AMS" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VFxLOMeDqTugYbL5dFca-20" value="SPI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VFxLOMeDqTugYbL5dFca-4" target="VFxLOMeDqTugYbL5dFca-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
